@@ -1,5 +1,7 @@
+#fibonacci algorith
+
 def fibo(number):
-    if number < 1:
+    imf number < 1:
         raise Exception
     elif number==1 or number==2:
         return number-1

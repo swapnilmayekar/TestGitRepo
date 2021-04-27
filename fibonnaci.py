@@ -1,5 +1,5 @@
 #fibonacci algorith
-
+#algorith is for number only
 def fibo(number):
     imf number < 1:
         raise Exception
